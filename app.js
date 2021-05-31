@@ -1,2 +1,6 @@
-var input=prompt("enter your name");
-alert(input);
+// var value=document.querySelector("#first-button");
+
+function eventhandler()
+{
+     console.log("clicked");
+}
