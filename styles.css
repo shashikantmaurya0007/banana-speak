@@ -1,0 +1,44 @@
+
+/* <link href="https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap" rel="stylesheet"> */
+body {
+  font-family: "Odibee Sans", cursive;
+}
+
+#btn-translate {
+  display: block;
+  text-align: center;
+  margin-left: 2rem;
+  padding: 0.5rem;
+  width: 20%;
+  background-color: yellow;
+  font-family: "Odibee Sans", cursive;
+  font-weight: bold;
+  font-size: 1.7rem;
+  border-radius: 0.3rem;
+}
+#text-input {
+    font-family: "Odibee Sans", cursive;
+    font-weight: bold;
+    font-size: 2rem;
+    display: block;
+    margin: 2rem;
+    padding: 2rem;
+    height: 10vh;
+    width: 80%;
+    border-radius: 2rem;
+    background-color:linen;
+    outline: none;
+}
+  
+#output-area {
+  border: 2px solid black;
+  width: 80%;
+  height: 10vh;
+  margin: 2rem;
+  padding: 2rem;
+  font-family: "Odibee Sans", cursive;
+  font-weight: bold;
+  font-size: 2rem;
+  border-radius: 2rem;
+  background-color: lightgoldenrodyellow;
+}
